@@ -1,1 +1,0 @@
-pytest>=7  # optional; tests also run with: python -m unittest
